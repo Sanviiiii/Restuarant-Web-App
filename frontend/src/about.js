@@ -43,6 +43,8 @@ const AboutUsPage = () => {
           <p className="text-gray-700">
             <span className="font-semibold text-accent">Phone:</span> (123) 456-7890
           </p>
+
+        
         </div>
       </section>
 
